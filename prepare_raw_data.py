@@ -26,7 +26,7 @@ def get_clips(label_limit=1):
             }
     """
        
-    base_dir = '/Users/sami/Desktop/MS-ASL/meta/'  # Verzeichnis mit den JSON-Dateien
+    base_dir = 'meta/'  # Verzeichnis mit den JSON-Dateien
 
     # Lade und filtere Trainingseinträge (label in range(limit)), nimm das erste passende
     with open(base_dir + 'MSASL_train.json') as train_data:

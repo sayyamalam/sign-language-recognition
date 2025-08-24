@@ -1,0 +1,5 @@
+numpy
+pandas
+yt-dlp
+scipy
+tqdm

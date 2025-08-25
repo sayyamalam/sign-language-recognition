@@ -1,0 +1,4714 @@
+[
+  {
+    "org_text": "DOCTOR",
+    "clean_text": "doctor",
+    "start_time": 80.38,
+    "end_time": 83.283,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 51,
+    "signer_id": 9,
+    "url": "https://www.youtube.com/watch?v=G77ZoILMYw4",
+    "box": [
+      0.039729118347167004,
+      0.043039023876190005,
+      1.0,
+      0.7561073303222651
+    ],
+    "duration_s": 2.903000000000006
+  },
+  {
+    "org_text": "TEACHER",
+    "clean_text": "teacher",
+    "start_time": 332.331,
+    "end_time": 335.301,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 2,
+    "signer_id": 9,
+    "url": "https://www.youtube.com/watch?v=G77ZoILMYw4",
+    "box": [
+      0.0,
+      0.084711819887161,
+      1.0,
+      0.8925684094429011
+    ],
+    "duration_s": 2.9699999999999704
+  },
+  {
+    "org_text": "PENCIL",
+    "clean_text": "pencil",
+    "start_time": 176.51,
+    "end_time": 181.081,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 79,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=cNtU2UH-2Rk",
+    "box": [
+      0.30433264374732905,
+      0.29667276144027704,
+      0.96919047832489,
+      0.690140962600708
+    ],
+    "duration_s": 4.570999999999998
+  },
+  {
+    "org_text": "EVENING/NIGHT",
+    "clean_text": "night",
+    "start_time": 19.001,
+    "end_time": 22.313,
+    "fps": 29.893,
+    "width": 1280,
+    "height": 720,
+    "label": 99,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=iDFtTpXAMJE",
+    "box": [
+      0.0,
+      0.18836781382560702,
+      1.0,
+      0.9196845293045041
+    ],
+    "duration_s": 3.3119999999999976
+  },
+  {
+    "org_text": "Spring ",
+    "clean_text": "spring",
+    "start_time": 0.667,
+    "end_time": 3.333,
+    "fps": 30.0,
+    "width": 480,
+    "height": 360,
+    "label": 23,
+    "signer_id": 132,
+    "url": "https://www.youtube.com/watch?v=WJCEpGRkGoM",
+    "box": [
+      0.111120641231536,
+      0.326254963874816,
+      1.0,
+      0.7891446352005
+    ],
+    "duration_s": 2.6660000000000004
+  },
+  {
+    "org_text": "doctor",
+    "clean_text": "doctor",
+    "start_time": 0.333,
+    "end_time": 2.667,
+    "fps": 30.0,
+    "width": 540,
+    "height": 360,
+    "label": 51,
+    "signer_id": 29,
+    "url": "https://www.youtube.com/watch?v=P6n_RCPh6Ug",
+    "box": [
+      0.0,
+      0.011358261108398,
+      1.0,
+      0.7968449592590331
+    ],
+    "duration_s": 2.3339999999999996
+  },
+  {
+    "org_text": "doctor",
+    "clean_text": "doctor",
+    "start_time": 4.333,
+    "end_time": 8.0,
+    "fps": 30.0,
+    "width": 540,
+    "height": 360,
+    "label": 51,
+    "signer_id": 29,
+    "url": "https://www.youtube.com/watch?v=P6n_RCPh6Ug",
+    "box": [
+      0.0,
+      0.011358261108398,
+      1.0,
+      0.7968449592590331
+    ],
+    "duration_s": 3.667
+  },
+  {
+    "org_text": "I TIRED (I am tired)",
+    "clean_text": "tired",
+    "start_time": 29.2,
+    "end_time": 31.433,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 16,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=hCxSiN-vZS8",
+    "box": [
+      0.0,
+      0.0,
+      1.0,
+      0.9221841096878051
+    ],
+    "duration_s": 2.2330000000000005
+  },
+  {
+    "org_text": "GROW",
+    "clean_text": "spring",
+    "start_time": 76.176,
+    "end_time": 79.746,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 23,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=HuViTIjghKk",
+    "box": [
+      0.305254369974136,
+      0.29318827390670704,
+      0.9750778079032891,
+      0.673145234584808
+    ],
+    "duration_s": 3.569999999999993
+  },
+  {
+    "org_text": "WHAT",
+    "clean_text": "what",
+    "start_time": 169.669,
+    "end_time": 173.006,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 15,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=HuViTIjghKk",
+    "box": [
+      0.256663769483566,
+      0.290212482213974,
+      0.9803057909011841,
+      0.696682512760162
+    ],
+    "duration_s": 3.336999999999989
+  },
+  {
+    "org_text": "WHERE",
+    "clean_text": "where",
+    "start_time": 195.429,
+    "end_time": 198.732,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 30,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=HuViTIjghKk",
+    "box": [
+      0.271151095628738,
+      0.312121391296386,
+      0.9867641329765321,
+      0.681906104087829
+    ],
+    "duration_s": 3.3029999999999973
+  },
+  {
+    "org_text": "BIRD",
+    "clean_text": "bird",
+    "start_time": 9.3,
+    "end_time": 10.167,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 14,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=3m1X5NYCA_I",
+    "box": [
+      0.0,
+      0.063382625579833,
+      1.0,
+      0.942159831523895
+    ],
+    "duration_s": 0.8669999999999991
+  },
+  {
+    "org_text": "Family",
+    "clean_text": "family",
+    "start_time": 5.239,
+    "end_time": 7.574,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 44,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.047752797603607004,
+      0.409468054771423,
+      1.0,
+      0.8702946305274961
+    ],
+    "duration_s": 2.335
+  },
+  {
+    "org_text": "Father/Daddy",
+    "clean_text": "father",
+    "start_time": 9.91,
+    "end_time": 12.279,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 31,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.008480548858642,
+      0.40980973839759804,
+      1.0,
+      0.833742201328277
+    ],
+    "duration_s": 2.3689999999999998
+  },
+  {
+    "org_text": "Mother/Mommy",
+    "clean_text": "mother",
+    "start_time": 14.114,
+    "end_time": 16.249,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 19,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.048671513795852,
+      0.41280660033226,
+      1.0,
+      0.8366129398345941
+    ],
+    "duration_s": 2.134999999999998
+  },
+  {
+    "org_text": "Brother",
+    "clean_text": "brother",
+    "start_time": 18.585,
+    "end_time": 20.454,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 34,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.047911018133163,
+      0.41501298546791004,
+      1.0,
+      0.8530302643775941
+    ],
+    "duration_s": 1.8689999999999998
+  },
+  {
+    "org_text": "Sister",
+    "clean_text": "sister",
+    "start_time": 22.355,
+    "end_time": 24.691,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 11,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.053678661584854,
+      0.42009413242340005,
+      1.0,
+      0.846101760864257
+    ],
+    "duration_s": 2.3359999999999985
+  },
+  {
+    "org_text": "Grandfather/\nGrandpa",
+    "clean_text": "grandfather",
+    "start_time": 32.165,
+    "end_time": 34.501,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 92,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.017510771751403,
+      0.336071789264678,
+      1.0,
+      0.837620913982391
+    ],
+    "duration_s": 2.3359999999999985
+  },
+  {
+    "org_text": "Grandmother/\n\nGrandma",
+    "clean_text": "grandmother",
+    "start_time": 36.903,
+    "end_time": 38.905,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 78,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.041228652000427,
+      0.350911498069763,
+      1.0,
+      0.831419765949249
+    ],
+    "duration_s": 2.0020000000000024
+  },
+  {
+    "org_text": "brother",
+    "clean_text": "brother",
+    "start_time": 48.948,
+    "end_time": 51.117,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 34,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.043205142021179005,
+      0.43684521317481906,
+      1.0,
+      0.8513329029083251
+    ],
+    "duration_s": 2.168999999999997
+  },
+  {
+    "org_text": "sister",
+    "clean_text": "sister",
+    "start_time": 53.286,
+    "end_time": 55.088,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 11,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.050201892852783,
+      0.44233700633049006,
+      1.0,
+      0.8441355228424071
+    ],
+    "duration_s": 1.8019999999999996
+  },
+  {
+    "org_text": "brother",
+    "clean_text": "brother",
+    "start_time": 56.923,
+    "end_time": 59.192,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 34,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.046896666288375,
+      0.43167394399642905,
+      0.9989164471626281,
+      0.868743419647216
+    ],
+    "duration_s": 2.2689999999999984
+  },
+  {
+    "org_text": "sister",
+    "clean_text": "sister",
+    "start_time": 61.327,
+    "end_time": 63.596,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 11,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ybhXZy32d1E",
+    "box": [
+      0.05112057924270601,
+      0.4412282705307,
+      1.0,
+      0.857903838157653
+    ],
+    "duration_s": 2.2689999999999984
+  },
+  {
+    "org_text": "FRIEND",
+    "clean_text": "friend",
+    "start_time": 35.435,
+    "end_time": 37.871,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 17,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=KTURNRi-wy0",
+    "box": [
+      0.14655065536499,
+      0.172485798597335,
+      1.0,
+      0.7711250782012941
+    ],
+    "duration_s": 2.436
+  },
+  {
+    "org_text": "DEAF",
+    "clean_text": "deaf",
+    "start_time": 39.606,
+    "end_time": 42.342,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 9,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=KTURNRi-wy0",
+    "box": [
+      0.146792113780975,
+      0.198771953582763,
+      1.0,
+      0.778738558292388
+    ],
+    "duration_s": 2.735999999999997
+  },
+  {
+    "org_text": "DEAF",
+    "clean_text": "deaf",
+    "start_time": 45.212,
+    "end_time": 47.648,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 9,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=KTURNRi-wy0",
+    "box": [
+      0.150073677301406,
+      0.22858127951622,
+      1.0,
+      0.7770254611968991
+    ],
+    "duration_s": 2.436
+  },
+  {
+    "org_text": "DEAF",
+    "clean_text": "deaf",
+    "start_time": 48.749,
+    "end_time": 50.384,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 9,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=KTURNRi-wy0",
+    "box": [
+      0.148116171360015,
+      0.23166197538375802,
+      1.0,
+      0.7781455516815181
+    ],
+    "duration_s": 1.634999999999998
+  },
+  {
+    "org_text": "NICE",
+    "clean_text": "nice",
+    "start_time": 59.126,
+    "end_time": 60.994,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 1,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=KTURNRi-wy0",
+    "box": [
+      0.141801118850708,
+      0.20347410440444902,
+      1.0,
+      0.761831581592559
+    ],
+    "duration_s": 1.868000000000002
+  },
+  {
+    "org_text": "WANT",
+    "clean_text": "want",
+    "start_time": 80.047,
+    "end_time": 81.515,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 8,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=KTURNRi-wy0",
+    "box": [
+      0.14588674902915902,
+      0.18971908092498702,
+      1.0,
+      0.778219580650329
+    ],
+    "duration_s": 1.4680000000000035
+  },
+  {
+    "org_text": "LEARN",
+    "clean_text": "learn",
+    "start_time": 93.694,
+    "end_time": 95.629,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 22,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=KTURNRi-wy0",
+    "box": [
+      0.14664483070373502,
+      0.22690610587596802,
+      1.0,
+      0.6990767121315
+    ],
+    "duration_s": 1.9350000000000023
+  },
+  {
+    "org_text": "STUDENT  (LEARN + PERSON)",
+    "clean_text": "student",
+    "start_time": 97.731,
+    "end_time": 100.701,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 21,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=KTURNRi-wy0",
+    "box": [
+      0.152196019887924,
+      0.193702459335327,
+      1.0,
+      0.760696828365325
+    ],
+    "duration_s": 2.969999999999999
+  },
+  {
+    "org_text": "TEACHER  (TEACH + PERSON)",
+    "clean_text": "teacher",
+    "start_time": 127.494,
+    "end_time": 129.796,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 2,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=KTURNRi-wy0",
+    "box": [
+      0.14810138940811102,
+      0.171269416809082,
+      1.0,
+      0.7753966450691221
+    ],
+    "duration_s": 2.3019999999999925
+  },
+  {
+    "org_text": "TABLE",
+    "clean_text": "table",
+    "start_time": 95.467,
+    "end_time": 97.467,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 28,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=nHnqAu_1K-c",
+    "box": [
+      0.146649986505508,
+      0.13800826668739302,
+      1.0,
+      0.737398505210876
+    ],
+    "duration_s": 2.0
+  },
+  {
+    "org_text": "TABLE",
+    "clean_text": "table",
+    "start_time": 98.8,
+    "end_time": 101.133,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 28,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=nHnqAu_1K-c",
+    "box": [
+      0.146649986505508,
+      0.13800826668739302,
+      1.0,
+      0.737398505210876
+    ],
+    "duration_s": 2.3329999999999984
+  },
+  {
+    "org_text": "ORANGE",
+    "clean_text": "orange",
+    "start_time": 24.791,
+    "end_time": 27.16,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 7,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=qATuIbBufYQ",
+    "box": [
+      0.09413737058639501,
+      0.24204117059707603,
+      0.999898970127105,
+      0.8031201362609861
+    ],
+    "duration_s": 2.3689999999999998
+  },
+  {
+    "org_text": "APPLE",
+    "clean_text": "apple",
+    "start_time": 39.873,
+    "end_time": 42.342,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 100,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=qATuIbBufYQ",
+    "box": [
+      0.095157951116561,
+      0.217547953128814,
+      0.9986180067062371,
+      0.807316422462463
+    ],
+    "duration_s": 2.469000000000001
+  },
+  {
+    "org_text": "LOSE (a game)",
+    "clean_text": "lost",
+    "start_time": 150.9,
+    "end_time": 153.9,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 43,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=pnzIZR8wTV8",
+    "box": [
+      0.05837303400039601,
+      0.173670679330825,
+      1.0,
+      0.708706498146057
+    ],
+    "duration_s": 3.0
+  },
+  {
+    "org_text": "teacher",
+    "clean_text": "teacher",
+    "start_time": 0.667,
+    "end_time": 3.0,
+    "fps": 30.0,
+    "width": 540,
+    "height": 360,
+    "label": 2,
+    "signer_id": 29,
+    "url": "https://www.youtube.com/watch?v=N9tVg829W4c",
+    "box": [
+      0.000640749931335,
+      0.124070882797241,
+      1.0,
+      0.8941262960433961
+    ],
+    "duration_s": 2.333
+  },
+  {
+    "org_text": "teacher",
+    "clean_text": "teacher",
+    "start_time": 5.0,
+    "end_time": 7.333,
+    "fps": 30.0,
+    "width": 540,
+    "height": 360,
+    "label": 2,
+    "signer_id": 29,
+    "url": "https://www.youtube.com/watch?v=N9tVg829W4c",
+    "box": [
+      0.000640749931335,
+      0.124070882797241,
+      1.0,
+      0.8941262960433961
+    ],
+    "duration_s": 2.333
+  },
+  {
+    "org_text": "SCHOOL",
+    "clean_text": "school",
+    "start_time": 42.509,
+    "end_time": 43.911,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 10,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=CJcFBjT7fkc",
+    "box": [
+      0.045966804027557005,
+      0.177798122167587,
+      0.976831018924713,
+      0.730748057365417
+    ],
+    "duration_s": 1.402000000000001
+  },
+  {
+    "org_text": "SPRING",
+    "clean_text": "spring",
+    "start_time": 67.167,
+    "end_time": 68.902,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 23,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=KlQ1YBnMyKM",
+    "box": [
+      0.10308703780174201,
+      0.16268110275268502,
+      1.0,
+      0.736684679985046
+    ],
+    "duration_s": 1.7349999999999994
+  },
+  {
+    "org_text": "DOCTOR (MEDICAL)",
+    "clean_text": "doctor",
+    "start_time": 51.251,
+    "end_time": 55.822,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 51,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=2fxtI59FmNs",
+    "box": [
+      0.132205635309219,
+      0.28825849294662403,
+      1.0,
+      0.6293672323226921
+    ],
+    "duration_s": 4.571000000000005
+  },
+  {
+    "org_text": "DRINK",
+    "clean_text": "drink",
+    "start_time": 56.056,
+    "end_time": 59.226,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 56,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=2fxtI59FmNs",
+    "box": [
+      0.129080742597579,
+      0.24380785226821902,
+      0.999541401863098,
+      0.6328045725822441
+    ],
+    "duration_s": 3.1700000000000017
+  },
+  {
+    "org_text": "WATER",
+    "clean_text": "water",
+    "start_time": 189.589,
+    "end_time": 192.959,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 48,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=2fxtI59FmNs",
+    "box": [
+      0.10301923751831,
+      0.28671431541442804,
+      1.0,
+      0.6848759651184081
+    ],
+    "duration_s": 3.3700000000000045
+  },
+  {
+    "org_text": "WRITE",
+    "clean_text": "write",
+    "start_time": 204.838,
+    "end_time": 208.909,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 53,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=2fxtI59FmNs",
+    "box": [
+      0.10580599308013901,
+      0.32053884863853405,
+      1.0,
+      0.6962752342224121
+    ],
+    "duration_s": 4.070999999999998
+  },
+  {
+    "org_text": "FINISH",
+    "clean_text": "finish",
+    "start_time": 223.957,
+    "end_time": 225.625,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 12,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=2fxtI59FmNs",
+    "box": [
+      0.10051846504211401,
+      0.304903507232666,
+      1.0,
+      0.664733827114105
+    ],
+    "duration_s": 1.6680000000000064
+  },
+  {
+    "org_text": "TABLE / DESK",
+    "clean_text": "table",
+    "start_time": 29.997,
+    "end_time": 31.965,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 28,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=UlRyKsP78qQ",
+    "box": [
+      0.08544278144836401,
+      0.177042186260223,
+      1.0,
+      0.7715517282485961
+    ],
+    "duration_s": 1.968
+  },
+  {
+    "org_text": "HELP",
+    "clean_text": "help",
+    "start_time": 56.156,
+    "end_time": 58.058,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 50,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=UlRyKsP78qQ",
+    "box": [
+      0.09878790378570501,
+      0.20289838314056302,
+      1.0,
+      0.780750393867492
+    ],
+    "duration_s": 1.902000000000001
+  },
+  {
+    "org_text": "NEED",
+    "clean_text": "need",
+    "start_time": 83.55,
+    "end_time": 85.319,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=UlRyKsP78qQ",
+    "box": [
+      0.109175890684127,
+      0.167553961277008,
+      0.998994946479797,
+      0.7777887582778931
+    ],
+    "duration_s": 1.7690000000000055
+  },
+  {
+    "org_text": "PENCIL / PEN",
+    "clean_text": "pencil",
+    "start_time": 86.587,
+    "end_time": 88.989,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 79,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=UlRyKsP78qQ",
+    "box": [
+      0.096502751111984,
+      0.17999485135078402,
+      1.0,
+      0.772785305976867
+    ],
+    "duration_s": 2.402000000000001
+  },
+  {
+    "org_text": "TIRED",
+    "clean_text": "tired",
+    "start_time": 77.578,
+    "end_time": 80.113,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 16,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=Z7Z6RzQ4vCU",
+    "box": [
+      0.101539880037307,
+      0.12494698166847201,
+      0.9941824674606321,
+      0.7283967137336731
+    ],
+    "duration_s": 2.5349999999999966
+  },
+  {
+    "org_text": "LIKE",
+    "clean_text": "like",
+    "start_time": 87.254,
+    "end_time": 89.122,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 6,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=xQR5y_xUtpA",
+    "box": [
+      0.13861799240112302,
+      0.13291946053504902,
+      1.0,
+      0.7622684240341181
+    ],
+    "duration_s": 1.867999999999995
+  },
+  {
+    "org_text": "WANT",
+    "clean_text": "want",
+    "start_time": 94.494,
+    "end_time": 95.996,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 8,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=xQR5y_xUtpA",
+    "box": [
+      0.132281810045242,
+      0.12045529484748801,
+      1.0,
+      0.7833429574966431
+    ],
+    "duration_s": 1.5019999999999953
+  },
+  {
+    "org_text": "TIRED",
+    "clean_text": "tired",
+    "start_time": 281.767,
+    "end_time": 286.033,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 16,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=91foGHKuwL0",
+    "box": [
+      0.147965103387832,
+      0.19254919886589,
+      1.0,
+      0.7272903919219971
+    ],
+    "duration_s": 4.2660000000000196
+  },
+  {
+    "org_text": "HUNGRY",
+    "clean_text": "hungry",
+    "start_time": 303.667,
+    "end_time": 305.333,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 54,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=91foGHKuwL0",
+    "box": [
+      0.123357146978378,
+      0.213225558400154,
+      1.0,
+      0.7347114086151121
+    ],
+    "duration_s": 1.6660000000000537
+  },
+  {
+    "org_text": "BLACK",
+    "clean_text": "black",
+    "start_time": 10.644,
+    "end_time": 14.181,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 41,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.12057772278785701,
+      0.26060414314270003,
+      0.999524235725402,
+      0.649815082550048
+    ],
+    "duration_s": 3.536999999999999
+  },
+  {
+    "org_text": "BLUE",
+    "clean_text": "blue",
+    "start_time": 14.414,
+    "end_time": 17.317,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 64,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.12967357039451602,
+      0.325040787458419,
+      1.0,
+      0.642270326614379
+    ],
+    "duration_s": 2.9030000000000005
+  },
+  {
+    "org_text": "GREEN",
+    "clean_text": "green",
+    "start_time": 63.83,
+    "end_time": 66.099,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 65,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.12336918711662201,
+      0.322964668273925,
+      1.0,
+      0.669213354587554
+    ],
+    "duration_s": 2.2690000000000055
+  },
+  {
+    "org_text": "LIKE",
+    "clean_text": "like",
+    "start_time": 82.149,
+    "end_time": 84.685,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 6,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.121455043554306,
+      0.290479511022567,
+      1.0,
+      0.6486209630966181
+    ],
+    "duration_s": 2.5360000000000014
+  },
+  {
+    "org_text": "LOSE",
+    "clean_text": "lost",
+    "start_time": 84.885,
+    "end_time": 87.988,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 43,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.12055861949920602,
+      0.29660922288894603,
+      1.0,
+      0.659154057502746
+    ],
+    "duration_s": 3.1029999999999944
+  },
+  {
+    "org_text": "NEED",
+    "clean_text": "need",
+    "start_time": 94.795,
+    "end_time": 97.197,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.125296086072921,
+      0.309461742639541,
+      0.999896764755249,
+      0.6469013690948481
+    ],
+    "duration_s": 2.402000000000001
+  },
+  {
+    "org_text": "ORANGE",
+    "clean_text": "orange",
+    "start_time": 102.903,
+    "end_time": 105.772,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 7,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.11992818117141701,
+      0.304999232292175,
+      1.0,
+      0.638028025627136
+    ],
+    "duration_s": 2.8689999999999998
+  },
+  {
+    "org_text": "RED",
+    "clean_text": "red",
+    "start_time": 116.45,
+    "end_time": 119.319,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 61,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.120049476623535,
+      0.32321870326995805,
+      1.0,
+      0.645196318626403
+    ],
+    "duration_s": 2.8689999999999998
+  },
+  {
+    "org_text": "TABLE",
+    "clean_text": "table",
+    "start_time": 126.76,
+    "end_time": 130.097,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 28,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.121736884117126,
+      0.295732080936431,
+      1.0,
+      0.6615558266639711
+    ],
+    "duration_s": 3.3370000000000033
+  },
+  {
+    "org_text": "WANT",
+    "clean_text": "want",
+    "start_time": 133.033,
+    "end_time": 135.969,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 8,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.11744591593742301,
+      0.31085932254791204,
+      1.0,
+      0.6528276205062861
+    ],
+    "duration_s": 2.936000000000007
+  },
+  {
+    "org_text": "WHITE",
+    "clean_text": "white",
+    "start_time": 136.203,
+    "end_time": 138.505,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 13,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.11554211378097501,
+      0.303525865077972,
+      1.0,
+      0.6324888467788691
+    ],
+    "duration_s": 2.3019999999999925
+  },
+  {
+    "org_text": "YELLOW",
+    "clean_text": "yellow",
+    "start_time": 141.842,
+    "end_time": 144.611,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 52,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.12050008773803701,
+      0.283179551362991,
+      1.0,
+      0.6646265983581541
+    ],
+    "duration_s": 2.768999999999977
+  },
+  {
+    "org_text": "Finish",
+    "clean_text": "finish",
+    "start_time": 147.748,
+    "end_time": 148.615,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 12,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=otTiJBUrJmI",
+    "box": [
+      0.1256904900074,
+      0.33331355452537503,
+      1.0,
+      0.646805465221405
+    ],
+    "duration_s": 0.8670000000000186
+  },
+  {
+    "org_text": "MAN",
+    "clean_text": "man",
+    "start_time": 21.221,
+    "end_time": 23.323,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 58,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=sUC-XDC5TvA",
+    "box": [
+      0.059656232595443004,
+      0.144307851791381,
+      1.0,
+      0.80104649066925
+    ],
+    "duration_s": 2.1020000000000003
+  },
+  {
+    "org_text": "COUSIN (male)",
+    "clean_text": "cousin",
+    "start_time": 29.029,
+    "end_time": 31.198,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 33,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=sUC-XDC5TvA",
+    "box": [
+      0.10837084054946901,
+      0.15153235197067202,
+      0.998259305953979,
+      0.8077033758163451
+    ],
+    "duration_s": 2.1690000000000005
+  },
+  {
+    "org_text": "COUSIN (female)",
+    "clean_text": "cousin",
+    "start_time": 51.018,
+    "end_time": 52.786,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 33,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=sUC-XDC5TvA",
+    "box": [
+      0.10419222712516701,
+      0.17672187089920002,
+      1.0,
+      0.7788059711456291
+    ],
+    "duration_s": 1.7680000000000007
+  },
+  {
+    "org_text": "BIRD",
+    "clean_text": "bird",
+    "start_time": 63.664,
+    "end_time": 65.499,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 14,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=sUC-XDC5TvA",
+    "box": [
+      0.11587971448898302,
+      0.18577784299850403,
+      1.0,
+      0.79422241449356
+    ],
+    "duration_s": 1.8349999999999937
+  },
+  {
+    "org_text": "FISH",
+    "clean_text": "fish",
+    "start_time": 84.351,
+    "end_time": 86.954,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 25,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=sUC-XDC5TvA",
+    "box": [
+      0.100363284349441,
+      0.15605869889259302,
+      1.0,
+      0.774662375450134
+    ],
+    "duration_s": 2.6029999999999944
+  },
+  {
+    "org_text": "FINISHED",
+    "clean_text": "finish",
+    "start_time": 61.995,
+    "end_time": 63.096,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 12,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=WOoFI9xmBNo",
+    "box": [
+      0.21837568283081002,
+      0.20008525252342202,
+      1.0,
+      0.762794137001037
+    ],
+    "duration_s": 1.100999999999999
+  },
+  {
+    "org_text": "DESK/TABLE",
+    "clean_text": "table",
+    "start_time": 34.128,
+    "end_time": 36.236,
+    "fps": 29.887,
+    "width": 1280,
+    "height": 720,
+    "label": 28,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=-hzoIOWYJac",
+    "box": [
+      0.001001000404357,
+      0.063151150941848,
+      1.0,
+      0.9821949005126951
+    ],
+    "duration_s": 2.107999999999997
+  },
+  {
+    "org_text": "HELP",
+    "clean_text": "help",
+    "start_time": 37.675,
+    "end_time": 39.749,
+    "fps": 29.887,
+    "width": 1280,
+    "height": 720,
+    "label": 50,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=-hzoIOWYJac",
+    "box": [
+      0.0,
+      0.202173262834548,
+      1.0,
+      0.981022953987121
+    ],
+    "duration_s": 2.074000000000005
+  },
+  {
+    "org_text": "NEED",
+    "clean_text": "need",
+    "start_time": 44.233,
+    "end_time": 46.374,
+    "fps": 29.887,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=-hzoIOWYJac",
+    "box": [
+      0.0,
+      0.19659796357154802,
+      1.0,
+      0.9969092607498161
+    ],
+    "duration_s": 2.1410000000000053
+  },
+  {
+    "org_text": "MUST",
+    "clean_text": "must",
+    "start_time": 20.854,
+    "end_time": 22.322,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=jE6qpXmh4VU",
+    "box": [
+      0.133503317832946,
+      0.140046328306198,
+      1.0,
+      0.766967415809631
+    ],
+    "duration_s": 1.468
+  },
+  {
+    "org_text": "MUST",
+    "clean_text": "must",
+    "start_time": 102.135,
+    "end_time": 103.804,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=jE6qpXmh4VU",
+    "box": [
+      0.12357103824615401,
+      0.16368740797042802,
+      1.0,
+      0.7693569660186761
+    ],
+    "duration_s": 1.668999999999997
+  },
+  {
+    "org_text": "FAMILY",
+    "clean_text": "family",
+    "start_time": 30.097,
+    "end_time": 31.965,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 44,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ZI3Yk215al0",
+    "box": [
+      0.20896515250205902,
+      0.180785983800888,
+      1.0,
+      0.7185931205749511
+    ],
+    "duration_s": 1.8679999999999986
+  },
+  {
+    "org_text": "SCHOOL",
+    "clean_text": "school",
+    "start_time": 35.433,
+    "end_time": 37.1,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 10,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=c49qWjgFtRI",
+    "box": [
+      0.0,
+      0.0052692294120780005,
+      1.0,
+      0.8036229610443111
+    ],
+    "duration_s": 1.6670000000000016
+  },
+  {
+    "org_text": "TEACHER",
+    "clean_text": "teacher",
+    "start_time": 93.567,
+    "end_time": 96.067,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 2,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=c49qWjgFtRI",
+    "box": [
+      0.062318950891494,
+      0.23039600253105103,
+      1.0,
+      0.7882276773452751
+    ],
+    "duration_s": 2.5
+  },
+  {
+    "org_text": "LEARN",
+    "clean_text": "learn",
+    "start_time": 109.933,
+    "end_time": 111.6,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 22,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=c49qWjgFtRI",
+    "box": [
+      0.070696622133255,
+      0.248123675584793,
+      1.0,
+      0.8417787551879881
+    ],
+    "duration_s": 1.6669999999999874
+  },
+  {
+    "org_text": "LEARN",
+    "clean_text": "learn",
+    "start_time": 112.6,
+    "end_time": 117.6,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 22,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=c49qWjgFtRI",
+    "box": [
+      0.070696622133255,
+      0.248123675584793,
+      1.0,
+      0.8417787551879881
+    ],
+    "duration_s": 5.0
+  },
+  {
+    "org_text": "LEARN",
+    "clean_text": "learn",
+    "start_time": 120.8,
+    "end_time": 122.467,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 22,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=c49qWjgFtRI",
+    "box": [
+      0.075737714767456,
+      0.25943249464035,
+      1.0,
+      0.7534734010696411
+    ],
+    "duration_s": 1.6670000000000016
+  },
+  {
+    "org_text": "WRITE",
+    "clean_text": "write",
+    "start_time": 426.5,
+    "end_time": 428.167,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 53,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=c49qWjgFtRI",
+    "box": [
+      0.087469518184661,
+      0.234865203499794,
+      1.0,
+      0.7503691911697381
+    ],
+    "duration_s": 1.6669999999999732
+  },
+  {
+    "org_text": "WRITE",
+    "clean_text": "write",
+    "start_time": 428.5,
+    "end_time": 431.367,
+    "fps": 30.0,
+    "width": 640,
+    "height": 360,
+    "label": 53,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=c49qWjgFtRI",
+    "box": [
+      0.087469518184661,
+      0.234865203499794,
+      1.0,
+      0.7503691911697381
+    ],
+    "duration_s": 2.8670000000000186
+  },
+  {
+    "org_text": "FISH",
+    "clean_text": "fish",
+    "start_time": 100.767,
+    "end_time": 103.136,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 25,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=Z1XbXReP_UY",
+    "box": [
+      0.138866543769836,
+      0.22621750831604,
+      1.0,
+      0.795168161392211
+    ],
+    "duration_s": 2.3689999999999998
+  },
+  {
+    "org_text": "CHICKEN",
+    "clean_text": "chicken",
+    "start_time": 104.271,
+    "end_time": 106.34,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 14,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=Z1XbXReP_UY",
+    "box": [
+      0.150329530239105,
+      0.22886198759078902,
+      1.0,
+      0.798872053623199
+    ],
+    "duration_s": 2.0690000000000026
+  },
+  {
+    "org_text": "MILK",
+    "clean_text": "milk",
+    "start_time": 134.968,
+    "end_time": 137.037,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 32,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=Z1XbXReP_UY",
+    "box": [
+      0.13908895850181502,
+      0.214085489511489,
+      1.0,
+      0.7842582464218141
+    ],
+    "duration_s": 2.069000000000017
+  },
+  {
+    "org_text": "SCHOOL",
+    "clean_text": "school",
+    "start_time": 23.891,
+    "end_time": 26.293,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 10,
+    "signer_id": 245,
+    "url": "https://www.youtube.com/watch?v=ucXplZLMUzY",
+    "box": [
+      0.0,
+      0.18459865450859,
+      1.0,
+      0.854885637760162
+    ],
+    "duration_s": 2.402000000000001
+  },
+  {
+    "org_text": "MOM",
+    "clean_text": "mother",
+    "start_time": 37.505,
+    "end_time": 40.007,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 19,
+    "signer_id": 245,
+    "url": "https://www.youtube.com/watch?v=ucXplZLMUzY",
+    "box": [
+      0.0,
+      0.204419046640396,
+      1.0,
+      0.85080474615097
+    ],
+    "duration_s": 2.5019999999999953
+  },
+  {
+    "org_text": "DAD",
+    "clean_text": "father",
+    "start_time": 40.741,
+    "end_time": 43.511,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 31,
+    "signer_id": 245,
+    "url": "https://www.youtube.com/watch?v=ucXplZLMUzY",
+    "box": [
+      0.0,
+      0.11569121479988001,
+      1.0,
+      0.877493500709533
+    ],
+    "duration_s": 2.770000000000003
+  },
+  {
+    "org_text": "SPRING",
+    "clean_text": "spring",
+    "start_time": 24.258,
+    "end_time": 28.962,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 23,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=PgrN3IWv91k",
+    "box": [
+      0.23140680789947501,
+      0.24061647057533203,
+      1.0,
+      0.678946256637573
+    ],
+    "duration_s": 4.704000000000001
+  },
+  {
+    "org_text": "MUST",
+    "clean_text": "must",
+    "start_time": 131.264,
+    "end_time": 134.835,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=8W98Dr2gH_g",
+    "box": [
+      0.263252764940261,
+      0.26480171084403903,
+      0.9826184511184691,
+      0.682164251804351
+    ],
+    "duration_s": 3.570999999999998
+  },
+  {
+    "org_text": "SHOULD",
+    "clean_text": "should",
+    "start_time": 184.651,
+    "end_time": 187.687,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=8W98Dr2gH_g",
+    "box": [
+      0.27028605341911305,
+      0.30948454141616805,
+      0.9760718345642091,
+      0.6765942573547361
+    ],
+    "duration_s": 3.0360000000000014
+  },
+  {
+    "org_text": "ORANGE",
+    "clean_text": "orange",
+    "start_time": 390.624,
+    "end_time": 394.594,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 7,
+    "signer_id": 257,
+    "url": "https://www.youtube.com/watch?v=99noLwmY2Bc",
+    "box": [
+      0.045693695545196006,
+      0.31087034940719604,
+      1.0,
+      0.778707683086395
+    ],
+    "duration_s": 3.9699999999999704
+  },
+  {
+    "org_text": "NIGHT/EVENING",
+    "clean_text": "night",
+    "start_time": 53.833,
+    "end_time": 55.833,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 99,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=vQ78e7xLCoc",
+    "box": [
+      0.0,
+      0.24080479145050002,
+      1.0,
+      1.0
+    ],
+    "duration_s": 2.0
+  },
+  {
+    "org_text": "AGAIN",
+    "clean_text": "again",
+    "start_time": 24.858,
+    "end_time": 28.896,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 26,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.150737226009368,
+      0.304762035608291,
+      1.0,
+      0.916669368743896
+    ],
+    "duration_s": 4.038
+  },
+  {
+    "org_text": "DEAF",
+    "clean_text": "deaf",
+    "start_time": 66.4,
+    "end_time": 69.57,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 9,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.154533058404922,
+      0.377374351024627,
+      1.0,
+      0.9255062341690061
+    ],
+    "duration_s": 3.1699999999999875
+  },
+  {
+    "org_text": "friend",
+    "clean_text": "friend",
+    "start_time": 133.734,
+    "end_time": 136.737,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 17,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.141312181949615,
+      0.364722400903701,
+      1.0,
+      0.9538488984107971
+    ],
+    "duration_s": 3.002999999999986
+  },
+  {
+    "org_text": "LEARN",
+    "clean_text": "learn",
+    "start_time": 225.525,
+    "end_time": 229.529,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 22,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.14763024449348403,
+      0.37679558992385803,
+      1.0,
+      0.9195764064788811
+    ],
+    "duration_s": 4.003999999999991
+  },
+  {
+    "org_text": "STUDENT",
+    "clean_text": "student",
+    "start_time": 229.596,
+    "end_time": 234.034,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 21,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.147409349679946,
+      0.38037407398223805,
+      1.0,
+      0.9173087477684021
+    ],
+    "duration_s": 4.437999999999988
+  },
+  {
+    "org_text": "LIKE",
+    "clean_text": "like",
+    "start_time": 234.768,
+    "end_time": 237.771,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 6,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.12349256873130701,
+      0.30892994999885504,
+      1.0,
+      0.9244715571403501
+    ],
+    "duration_s": 3.002999999999986
+  },
+  {
+    "org_text": "NICE",
+    "clean_text": "nice",
+    "start_time": 274.141,
+    "end_time": 277.878,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 1,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.13981646299362102,
+      0.376803249120712,
+      1.0,
+      0.9289940595626831
+    ],
+    "duration_s": 3.7369999999999663
+  },
+  {
+    "org_text": "SCHOOL",
+    "clean_text": "school",
+    "start_time": 319.119,
+    "end_time": 323.757,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 10,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.129347085952758,
+      0.37291571497917103,
+      1.0,
+      0.9326253533363341
+    ],
+    "duration_s": 4.637999999999977
+  },
+  {
+    "org_text": "teacher",
+    "clean_text": "teacher",
+    "start_time": 362.596,
+    "end_time": 366.266,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 2,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.12558010220527602,
+      0.37517234683036804,
+      1.0,
+      0.9492607712745661
+    ],
+    "duration_s": 3.670000000000016
+  },
+  {
+    "org_text": "TIRED",
+    "clean_text": "tired",
+    "start_time": 370.403,
+    "end_time": 375.108,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 16,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.12642687559127802,
+      0.367224305868148,
+      1.0,
+      0.9466979503631591
+    ],
+    "duration_s": 4.704999999999984
+  },
+  {
+    "org_text": "WANT",
+    "clean_text": "want",
+    "start_time": 404.771,
+    "end_time": 408.308,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 8,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.133445620536804,
+      0.36865994334220803,
+      1.0,
+      0.9337280988693231
+    ],
+    "duration_s": 3.5369999999999777
+  },
+  {
+    "org_text": "YES",
+    "clean_text": "yes",
+    "start_time": 532.165,
+    "end_time": 535.235,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 20,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.153493523597717,
+      0.346787840127944,
+      1.0,
+      0.925602555274963
+    ],
+    "duration_s": 3.07000000000005
+  },
+  {
+    "org_text": "NO",
+    "clean_text": "no",
+    "start_time": 535.301,
+    "end_time": 536.803,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 4,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.168045729398727,
+      0.390521854162216,
+      1.0,
+      0.9163787364959711
+    ],
+    "duration_s": 1.5019999999999527
+  },
+  {
+    "org_text": "NO",
+    "clean_text": "no",
+    "start_time": 536.903,
+    "end_time": 538.104,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 4,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s",
+    "box": [
+      0.169629752635955,
+      0.39180240035057,
+      1.0,
+      0.9142099618911741
+    ],
+    "duration_s": 1.2010000000000218
+  },
+  {
+    "org_text": "FINISH",
+    "clean_text": "finish",
+    "start_time": 20.687,
+    "end_time": 23.056,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 12,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=qzjVxb4dACY",
+    "box": [
+      0.111457377672195,
+      0.17977586388587902,
+      0.9996228814125061,
+      0.778117656707763
+    ],
+    "duration_s": 2.3689999999999998
+  },
+  {
+    "org_text": "to FISH",
+    "clean_text": "fish",
+    "start_time": 57.824,
+    "end_time": 60.227,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 25,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=qzjVxb4dACY",
+    "box": [
+      0.10350331664085301,
+      0.220942139625549,
+      0.9968843460083001,
+      0.7337259054183961
+    ],
+    "duration_s": 2.4029999999999987
+  },
+  {
+    "org_text": "FAMILY",
+    "clean_text": "family",
+    "start_time": 29.167,
+    "end_time": 31.167,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 44,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=kwCfdkhc37c",
+    "box": [
+      0.29508742690086304,
+      0.010547965764999001,
+      0.9957495927810661,
+      0.992441833019256
+    ],
+    "duration_s": 2.0
+  },
+  {
+    "org_text": "NICE",
+    "clean_text": "nice",
+    "start_time": 32.1,
+    "end_time": 33.6,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 1,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=kwCfdkhc37c",
+    "box": [
+      0.26476940512657104,
+      0.01120588183403,
+      0.9893580675125121,
+      0.9964188337326051
+    ],
+    "duration_s": 1.5
+  },
+  {
+    "org_text": "DEAF",
+    "clean_text": "deaf",
+    "start_time": 37.6,
+    "end_time": 39.2,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 9,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=kwCfdkhc37c",
+    "box": [
+      0.24775913357734602,
+      0.001177281141281,
+      1.0,
+      1.0
+    ],
+    "duration_s": 1.6000000000000014
+  },
+  {
+    "org_text": "RED",
+    "clean_text": "red",
+    "start_time": 11.555,
+    "end_time": 13.02,
+    "fps": 23.886,
+    "width": 480,
+    "height": 360,
+    "label": 61,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=wqDOKXEx24M",
+    "box": [
+      0.061909019947052,
+      0.18565186858177102,
+      1.0,
+      0.8919525146484371
+    ],
+    "duration_s": 1.4649999999999999
+  },
+  {
+    "org_text": "BLUE",
+    "clean_text": "blue",
+    "start_time": 14.653,
+    "end_time": 16.495,
+    "fps": 23.886,
+    "width": 480,
+    "height": 360,
+    "label": 64,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=wqDOKXEx24M",
+    "box": [
+      0.061740815639495,
+      0.18319645524024902,
+      0.9981275796890251,
+      0.9159056544303891
+    ],
+    "duration_s": 1.8420000000000005
+  },
+  {
+    "org_text": "ORANGE",
+    "clean_text": "orange",
+    "start_time": 18.965,
+    "end_time": 21.561,
+    "fps": 23.886,
+    "width": 480,
+    "height": 360,
+    "label": 7,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=wqDOKXEx24M",
+    "box": [
+      0.057582706212997006,
+      0.19248843193054202,
+      1.0,
+      0.9050636291503901
+    ],
+    "duration_s": 2.596
+  },
+  {
+    "org_text": "BLACK",
+    "clean_text": "black",
+    "start_time": 22.524,
+    "end_time": 24.45,
+    "fps": 23.886,
+    "width": 480,
+    "height": 360,
+    "label": 41,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=wqDOKXEx24M",
+    "box": [
+      0.06292110681533801,
+      0.176575869321823,
+      0.9982242584228511,
+      0.9925870895385741
+    ],
+    "duration_s": 1.9259999999999984
+  },
+  {
+    "org_text": "YELLOW",
+    "clean_text": "yellow",
+    "start_time": 31.902,
+    "end_time": 33.911,
+    "fps": 23.886,
+    "width": 480,
+    "height": 360,
+    "label": 52,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=wqDOKXEx24M",
+    "box": [
+      0.05580589175224301,
+      0.19183218479156403,
+      0.9991645216941831,
+      0.9121551513671871
+    ],
+    "duration_s": 2.0090000000000003
+  },
+  {
+    "org_text": "GREEN",
+    "clean_text": "green",
+    "start_time": 35.377,
+    "end_time": 37.637,
+    "fps": 23.886,
+    "width": 480,
+    "height": 360,
+    "label": 65,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=wqDOKXEx24M",
+    "box": [
+      0.055136412382125,
+      0.186643958091735,
+      0.9979500770568841,
+      0.9571142792701721
+    ],
+    "duration_s": 2.259999999999998
+  },
+  {
+    "org_text": "WHITE",
+    "clean_text": "white",
+    "start_time": 39.27,
+    "end_time": 41.489,
+    "fps": 23.886,
+    "width": 480,
+    "height": 360,
+    "label": 13,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=wqDOKXEx24M",
+    "box": [
+      0.049192309379577005,
+      0.19704109430313102,
+      1.0,
+      0.9126736521720881
+    ],
+    "duration_s": 2.218999999999994
+  },
+  {
+    "org_text": "AGAIN",
+    "clean_text": "again",
+    "start_time": 12.3,
+    "end_time": 14.1,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 26,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=xbVVThaez2g",
+    "box": [
+      0.0,
+      0.0,
+      1.0,
+      0.86672306060791
+    ],
+    "duration_s": 1.799999999999999
+  },
+  {
+    "org_text": "PENCIL",
+    "clean_text": "pencil",
+    "start_time": 15.1,
+    "end_time": 17.033,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 79,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=xbVVThaez2g",
+    "box": [
+      0.0,
+      0.008371621370315,
+      1.0,
+      0.84888482093811
+    ],
+    "duration_s": 1.9330000000000016
+  },
+  {
+    "org_text": "LEARN",
+    "clean_text": "learn",
+    "start_time": 51.3,
+    "end_time": 53.433,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 22,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=xbVVThaez2g",
+    "box": [
+      0.0,
+      0.008731842041015,
+      1.0,
+      0.8658423423767091
+    ],
+    "duration_s": 2.1330000000000027
+  },
+  {
+    "org_text": "SCHOOL",
+    "clean_text": "school",
+    "start_time": 38.998,
+    "end_time": 40.906,
+    "fps": 29.874,
+    "width": 1280,
+    "height": 720,
+    "label": 10,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=1r5V8ZGwnJg",
+    "box": [
+      0.0,
+      0.008650630712509001,
+      0.945636212825775,
+      0.890019714832305
+    ],
+    "duration_s": 1.9080000000000013
+  },
+  {
+    "org_text": "NICE",
+    "clean_text": "nice",
+    "start_time": 51.919,
+    "end_time": 53.754,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 1,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=61q-PJr_UvM",
+    "box": [
+      0.21479800343513403,
+      0.161145210266113,
+      1.0,
+      0.7081533670425411
+    ],
+    "duration_s": 1.8350000000000009
+  },
+  {
+    "org_text": "LOST",
+    "clean_text": "lost",
+    "start_time": 144.244,
+    "end_time": 145.579,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 43,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=61q-PJr_UvM",
+    "box": [
+      0.21358624100685103,
+      0.12847366929054202,
+      1.0,
+      0.7310469150543211
+    ],
+    "duration_s": 1.335000000000008
+  },
+  {
+    "org_text": "deaf",
+    "clean_text": "deaf",
+    "start_time": 29.129,
+    "end_time": 32.733,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 9,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=HBQaI1ZG-LU",
+    "box": [
+      0.059198975563049004,
+      0.350076824426651,
+      0.9627631902694701,
+      0.6419600248336791
+    ],
+    "duration_s": 3.6039999999999957
+  },
+  {
+    "org_text": "deaf (old sign)",
+    "clean_text": "deaf",
+    "start_time": 32.966,
+    "end_time": 37.07,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 9,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=HBQaI1ZG-LU",
+    "box": [
+      0.05531382560729901,
+      0.32983872294425903,
+      0.97963547706604,
+      0.6455863714218141
+    ],
+    "duration_s": 4.103999999999999
+  },
+  {
+    "org_text": "tired, exhausted",
+    "clean_text": "tired",
+    "start_time": 116.383,
+    "end_time": 120.621,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 16,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=HBQaI1ZG-LU",
+    "box": [
+      0.07377526164054801,
+      0.32352685928344704,
+      0.9478353261947631,
+      0.648733437061309
+    ],
+    "duration_s": 4.2379999999999995
+  },
+  {
+    "org_text": "finish",
+    "clean_text": "finish",
+    "start_time": 142.109,
+    "end_time": 143.176,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 12,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=HBQaI1ZG-LU",
+    "box": [
+      0.054680109024047005,
+      0.31317293643951405,
+      0.9856301546096801,
+      0.6517236828804011
+    ],
+    "duration_s": 1.0669999999999789
+  },
+  {
+    "org_text": "BLACK",
+    "clean_text": "black",
+    "start_time": 60.46,
+    "end_time": 62.195,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 41,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=exk-qIRNw7Y",
+    "box": [
+      0.107293754816055,
+      0.155833840370178,
+      1.0,
+      0.752876281738281
+    ],
+    "duration_s": 1.7349999999999994
+  },
+  {
+    "org_text": "BLUE",
+    "clean_text": "blue",
+    "start_time": 63.597,
+    "end_time": 65.599,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 64,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=exk-qIRNw7Y",
+    "box": [
+      0.104580163955688,
+      0.17724889516830403,
+      1.0,
+      0.76086413860321
+    ],
+    "duration_s": 2.0020000000000024
+  },
+  {
+    "org_text": "GREEN",
+    "clean_text": "green",
+    "start_time": 74.775,
+    "end_time": 76.977,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 65,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=exk-qIRNw7Y",
+    "box": [
+      0.10706585645675601,
+      0.183273941278457,
+      1.0,
+      0.7743837833404541
+    ],
+    "duration_s": 2.201999999999998
+  },
+  {
+    "org_text": "ORANGE",
+    "clean_text": "orange",
+    "start_time": 78.412,
+    "end_time": 80.38,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 7,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=exk-qIRNw7Y",
+    "box": [
+      0.109089463949203,
+      0.19481423497199998,
+      1.0,
+      0.7724674940109251
+    ],
+    "duration_s": 1.9679999999999893
+  },
+  {
+    "org_text": "RED",
+    "clean_text": "red",
+    "start_time": 88.689,
+    "end_time": 90.023,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 61,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=exk-qIRNw7Y",
+    "box": [
+      0.10590952634811401,
+      0.19797676801681502,
+      1.0,
+      0.7676951885223381
+    ],
+    "duration_s": 1.3340000000000032
+  },
+  {
+    "org_text": "WHITE",
+    "clean_text": "white",
+    "start_time": 91.425,
+    "end_time": 92.926,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 13,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=exk-qIRNw7Y",
+    "box": [
+      0.10840022563934301,
+      0.18520161509513802,
+      1.0,
+      0.7663637399673461
+    ],
+    "duration_s": 1.5010000000000048
+  },
+  {
+    "org_text": "YELLOW",
+    "clean_text": "yellow",
+    "start_time": 94.194,
+    "end_time": 95.963,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 52,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=exk-qIRNw7Y",
+    "box": [
+      0.107833385467529,
+      0.176168769598007,
+      1.0,
+      0.769325613975524
+    ],
+    "duration_s": 1.7689999999999912
+  },
+  {
+    "org_text": "School",
+    "clean_text": "school",
+    "start_time": 0.367,
+    "end_time": 3.07,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 10,
+    "signer_id": 138,
+    "url": "https://www.youtube.com/watch?v=xIIGn6cn8BI",
+    "box": [
+      0.0040393769741050006,
+      0.155545085668563,
+      0.999801754951477,
+      0.86055052280426
+    ],
+    "duration_s": 2.703
+  },
+  {
+    "org_text": "ENGLISH",
+    "clean_text": "english",
+    "start_time": 39.339,
+    "end_time": 41.508,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 66,
+    "signer_id": 138,
+    "url": "https://www.youtube.com/watch?v=xIIGn6cn8BI",
+    "box": [
+      0.018481284379959002,
+      0.21404087543487502,
+      1.0,
+      0.7990366220474241
+    ],
+    "duration_s": 2.169000000000004
+  },
+  {
+    "org_text": "LIKE",
+    "clean_text": "like",
+    "start_time": 85.719,
+    "end_time": 87.654,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 6,
+    "signer_id": 138,
+    "url": "https://www.youtube.com/watch?v=xIIGn6cn8BI",
+    "box": [
+      0.029887527227401,
+      0.25224295258522,
+      0.997954726219177,
+      0.776494145393371
+    ],
+    "duration_s": 1.9350000000000023
+  },
+  {
+    "org_text": "MAN",
+    "clean_text": "man",
+    "start_time": 88.355,
+    "end_time": 89.99,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 58,
+    "signer_id": 138,
+    "url": "https://www.youtube.com/watch?v=xIIGn6cn8BI",
+    "box": [
+      0.027559548616409003,
+      0.22144895792007402,
+      0.998539626598358,
+      0.784278392791748
+    ],
+    "duration_s": 1.634999999999991
+  },
+  {
+    "org_text": "PEN/PENCIL",
+    "clean_text": "pencil",
+    "start_time": 108.976,
+    "end_time": 111.979,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 79,
+    "signer_id": 138,
+    "url": "https://www.youtube.com/watch?v=xIIGn6cn8BI",
+    "box": [
+      0.038532257080078,
+      0.233195036649703,
+      1.0,
+      0.7695984840393061
+    ],
+    "duration_s": 3.003
+  },
+  {
+    "org_text": "SCHOOL",
+    "clean_text": "school",
+    "start_time": 127.794,
+    "end_time": 130.397,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 10,
+    "signer_id": 138,
+    "url": "https://www.youtube.com/watch?v=xIIGn6cn8BI",
+    "box": [
+      0.033835083246231,
+      0.21551895141601501,
+      0.996933579444885,
+      0.7705914378166191
+    ],
+    "duration_s": 2.6029999999999944
+  },
+  {
+    "org_text": "STUDENT",
+    "clean_text": "student",
+    "start_time": 142.242,
+    "end_time": 144.611,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 21,
+    "signer_id": 138,
+    "url": "https://www.youtube.com/watch?v=xIIGn6cn8BI",
+    "box": [
+      0.04169553518295201,
+      0.21798941493034302,
+      1.0,
+      0.7663723230361931
+    ],
+    "duration_s": 2.3689999999999998
+  },
+  {
+    "org_text": "TEACHER",
+    "clean_text": "teacher",
+    "start_time": 153.053,
+    "end_time": 155.589,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 2,
+    "signer_id": 138,
+    "url": "https://www.youtube.com/watch?v=xIIGn6cn8BI",
+    "box": [
+      0.039399832487106004,
+      0.20836448669433502,
+      1.0,
+      0.7909692525863641
+    ],
+    "duration_s": 2.5360000000000014
+  },
+  {
+    "org_text": "WRITE",
+    "clean_text": "write",
+    "start_time": 165.999,
+    "end_time": 167.934,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 53,
+    "signer_id": 138,
+    "url": "https://www.youtube.com/watch?v=xIIGn6cn8BI",
+    "box": [
+      0.050993680953979006,
+      0.237889170646667,
+      1.0,
+      0.783169507980346
+    ],
+    "duration_s": 1.9350000000000023
+  },
+  {
+    "org_text": "LEARN",
+    "clean_text": "learn",
+    "start_time": 35.833,
+    "end_time": 36.967,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 22,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=7b4vSYwKgok",
+    "box": [
+      0.0,
+      0.11349529027938801,
+      1.0,
+      0.904758930206298
+    ],
+    "duration_s": 1.1340000000000003
+  },
+  {
+    "org_text": "MUST",
+    "clean_text": "must",
+    "start_time": 61.033,
+    "end_time": 62.3,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=7b4vSYwKgok",
+    "box": [
+      0.0,
+      0.08804601430892901,
+      1.0,
+      0.9088479280471801
+    ],
+    "duration_s": 1.266999999999996
+  },
+  {
+    "org_text": "NIGHT",
+    "clean_text": "night",
+    "start_time": 73.267,
+    "end_time": 74.667,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 99,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=7b4vSYwKgok",
+    "box": [
+      0.0,
+      0.086130231618881,
+      1.0,
+      0.847957968711853
+    ],
+    "duration_s": 1.4000000000000057
+  },
+  {
+    "org_text": "apple",
+    "clean_text": "apple",
+    "start_time": 6.406,
+    "end_time": 9.543,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 100,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ohjqddcHd3M",
+    "box": [
+      0.043708354234695004,
+      0.27781742811203003,
+      1.0,
+      0.8137205243110651
+    ],
+    "duration_s": 3.1369999999999996
+  },
+  {
+    "org_text": "grow",
+    "clean_text": "spring",
+    "start_time": 26.927,
+    "end_time": 29.396,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 23,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=ohjqddcHd3M",
+    "box": [
+      0.042163431644439,
+      0.38541555404663,
+      1.0,
+      0.808138132095336
+    ],
+    "duration_s": 2.469000000000001
+  },
+  {
+    "org_text": "WATER",
+    "clean_text": "water",
+    "start_time": 64.368,
+    "end_time": 66.041,
+    "fps": 29.891,
+    "width": 1280,
+    "height": 720,
+    "label": 48,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=HPUrVQbnNiU",
+    "box": [
+      0.0029856264591210002,
+      0.22119784355163502,
+      0.9964385032653801,
+      0.92891240119934
+    ],
+    "duration_s": 1.6730000000000018
+  },
+  {
+    "org_text": "to WRITE",
+    "clean_text": "write",
+    "start_time": 101.068,
+    "end_time": 104.071,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 53,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=7CLG9cN8ujs",
+    "box": [
+      0.12328416109085001,
+      0.19870233535766602,
+      1.0,
+      0.7662338614463801
+    ],
+    "duration_s": 3.003
+  },
+  {
+    "org_text": "To Lose ",
+    "clean_text": "lost",
+    "start_time": 1.0,
+    "end_time": 4.667,
+    "fps": 30.0,
+    "width": 480,
+    "height": 360,
+    "label": 43,
+    "signer_id": 132,
+    "url": "https://www.youtube.com/watch?v=HCWomCeqcDw",
+    "box": [
+      0.16144719719886702,
+      0.354016184806823,
+      1.0,
+      0.769627273082733
+    ],
+    "duration_s": 3.667
+  },
+  {
+    "org_text": "FOOD",
+    "clean_text": "eat",
+    "start_time": 2.074,
+    "end_time": 4.047,
+    "fps": 29.897,
+    "width": 1280,
+    "height": 720,
+    "label": 3,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=KFSLtsOwZiU",
+    "box": [
+      0.0,
+      0.004986941814422,
+      1.0,
+      0.9521300792694091
+    ],
+    "duration_s": 1.9729999999999999
+  },
+  {
+    "org_text": "APPLE",
+    "clean_text": "apple",
+    "start_time": 4.883,
+    "end_time": 6.121,
+    "fps": 29.897,
+    "width": 1280,
+    "height": 720,
+    "label": 100,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=KFSLtsOwZiU",
+    "box": [
+      0.005801171064376,
+      0.090622961521148,
+      0.9922600984573361,
+      0.943078219890594
+    ],
+    "duration_s": 1.2380000000000004
+  },
+  {
+    "org_text": "CHICKEN",
+    "clean_text": "chicken",
+    "start_time": 28.933,
+    "end_time": 31.575,
+    "fps": 29.897,
+    "width": 1280,
+    "height": 720,
+    "label": 14,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=KFSLtsOwZiU",
+    "box": [
+      0.0,
+      0.096638649702072,
+      1.0,
+      0.924962282180786
+    ],
+    "duration_s": 2.6419999999999995
+  },
+  {
+    "org_text": "FISH",
+    "clean_text": "fish",
+    "start_time": 49.938,
+    "end_time": 53.885,
+    "fps": 29.897,
+    "width": 1280,
+    "height": 720,
+    "label": 25,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=KFSLtsOwZiU",
+    "box": [
+      0.0,
+      0.035640835762023,
+      0.9980419874191281,
+      0.9582879543304441
+    ],
+    "duration_s": 3.9469999999999956
+  },
+  {
+    "org_text": "AGAIN, REPEAT",
+    "clean_text": "again",
+    "start_time": 8.208,
+    "end_time": 11.645,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 26,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=2sGQuduhAf4",
+    "box": [
+      0.109407842159271,
+      0.21695752441883,
+      1.0,
+      0.6591303348541261
+    ],
+    "duration_s": 3.4369999999999994
+  },
+  {
+    "org_text": "HELP, AID",
+    "clean_text": "help",
+    "start_time": 82.683,
+    "end_time": 86.453,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 50,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=2sGQuduhAf4",
+    "box": [
+      0.10044237971305801,
+      0.315724998712539,
+      1.0,
+      0.6931490302085871
+    ],
+    "duration_s": 3.769999999999996
+  },
+  {
+    "org_text": "MILK",
+    "clean_text": "milk",
+    "start_time": 108.075,
+    "end_time": 112.412,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 32,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=2sGQuduhAf4",
+    "box": [
+      0.093608140945434,
+      0.292130827903747,
+      1.0,
+      0.662350177764892
+    ],
+    "duration_s": 4.337000000000003
+  },
+  {
+    "org_text": "PLANT, SPRING",
+    "clean_text": "spring",
+    "start_time": 128.595,
+    "end_time": 132.532,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 23,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=2sGQuduhAf4",
+    "box": [
+      0.09014376997947601,
+      0.30069428682327204,
+      1.0,
+      0.671572208404541
+    ],
+    "duration_s": 3.937000000000012
+  },
+  {
+    "org_text": "FINISH",
+    "clean_text": "finish",
+    "start_time": 224.257,
+    "end_time": 228.328,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 12,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=2sGQuduhAf4",
+    "box": [
+      0.096475720405578,
+      0.289666891098022,
+      1.0,
+      0.665373444557189
+    ],
+    "duration_s": 4.070999999999998
+  },
+  {
+    "org_text": "Lost ",
+    "clean_text": "lost",
+    "start_time": 0.0,
+    "end_time": 4.967,
+    "fps": 30.0,
+    "width": 480,
+    "height": 360,
+    "label": 43,
+    "signer_id": 132,
+    "url": "https://www.youtube.com/watch?v=-kj0sejWZlA",
+    "box": [
+      0.16097426414489702,
+      0.35589587688446,
+      1.0,
+      0.756471395492553
+    ],
+    "duration_s": 4.967
+  },
+  {
+    "org_text": "brother",
+    "clean_text": "brother",
+    "start_time": 30.197,
+    "end_time": 33.934,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 34,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.113390445709228,
+      0.305644273757934,
+      1.0,
+      0.6734651923179621
+    ],
+    "duration_s": 3.7369999999999983
+  },
+  {
+    "org_text": "family",
+    "clean_text": "family",
+    "start_time": 49.016,
+    "end_time": 51.785,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 44,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.170897483825683,
+      0.31585732102394104,
+      1.0,
+      0.6198017597198481
+    ],
+    "duration_s": 2.7689999999999984
+  },
+  {
+    "org_text": "father",
+    "clean_text": "father",
+    "start_time": 52.019,
+    "end_time": 55.489,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 31,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.09711280465126,
+      0.300686836242675,
+      1.0,
+      0.635677516460418
+    ],
+    "duration_s": 3.469999999999999
+  },
+  {
+    "org_text": "friend",
+    "clean_text": "friend",
+    "start_time": 55.722,
+    "end_time": 58.559,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 17,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.128315031528472,
+      0.299645900726318,
+      1.0,
+      0.6520344018936151
+    ],
+    "duration_s": 2.836999999999996
+  },
+  {
+    "org_text": "grandfather",
+    "clean_text": "grandfather",
+    "start_time": 65.832,
+    "end_time": 69.069,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 92,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.04325711727142301,
+      0.326711386442184,
+      1.0,
+      0.6665983796119691
+    ],
+    "duration_s": 3.237000000000009
+  },
+  {
+    "org_text": "grandmother",
+    "clean_text": "grandmother",
+    "start_time": 69.303,
+    "end_time": 72.406,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 78,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.128281891345977,
+      0.334128558635711,
+      1.0,
+      0.6570967435836791
+    ],
+    "duration_s": 3.1030000000000086
+  },
+  {
+    "org_text": "man",
+    "clean_text": "man",
+    "start_time": 82.249,
+    "end_time": 86.019,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 58,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.128977447748184,
+      0.30466306209564203,
+      1.0,
+      0.647284984588623
+    ],
+    "duration_s": 3.7700000000000102
+  },
+  {
+    "org_text": "mother",
+    "clean_text": "mother",
+    "start_time": 86.253,
+    "end_time": 89.289,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 19,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.15822893381118702,
+      0.308853030204772,
+      1.0,
+      0.621326506137847
+    ],
+    "duration_s": 3.0360000000000014
+  },
+  {
+    "org_text": "sister",
+    "clean_text": "sister",
+    "start_time": 113.413,
+    "end_time": 116.85,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 11,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.12440195679664601,
+      0.32094809412956204,
+      1.0,
+      0.6687829494476311
+    ],
+    "duration_s": 3.4369999999999976
+  },
+  {
+    "org_text": "student",
+    "clean_text": "student",
+    "start_time": 120.253,
+    "end_time": 123.49,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 21,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.132976233959198,
+      0.312832295894622,
+      1.0,
+      0.656466126441955
+    ],
+    "duration_s": 3.2369999999999948
+  },
+  {
+    "org_text": "teacher",
+    "clean_text": "teacher",
+    "start_time": 127.027,
+    "end_time": 130.33,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 2,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.130208581686019,
+      0.31727212667465204,
+      1.0,
+      0.6626932621002191
+    ],
+    "duration_s": 3.3030000000000115
+  },
+  {
+    "org_text": "finish",
+    "clean_text": "finish",
+    "start_time": 148.081,
+    "end_time": 149.082,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 12,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=bXyG4iebEBo",
+    "box": [
+      0.132781982421875,
+      0.32418707013130105,
+      1.0,
+      0.658178091049194
+    ],
+    "duration_s": 1.0010000000000048
+  },
+  {
+    "org_text": "DOCTOR",
+    "clean_text": "doctor",
+    "start_time": 106.44,
+    "end_time": 109.109,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 51,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=1kNszi0e9XU",
+    "box": [
+      0.026798278093338002,
+      0.18547585606575,
+      1.0,
+      0.702877104282379
+    ],
+    "duration_s": 2.668999999999997
+  },
+  {
+    "org_text": "DOCTOR",
+    "clean_text": "doctor",
+    "start_time": 110.777,
+    "end_time": 112.779,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 51,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=1kNszi0e9XU",
+    "box": [
+      0.026798278093338002,
+      0.18547585606575,
+      1.0,
+      0.702877104282379
+    ],
+    "duration_s": 2.0019999999999953
+  },
+  {
+    "org_text": "DOCTOR",
+    "clean_text": "doctor",
+    "start_time": 113.447,
+    "end_time": 115.749,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 51,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=1kNszi0e9XU",
+    "box": [
+      0.026798278093338002,
+      0.18547585606575,
+      1.0,
+      0.702877104282379
+    ],
+    "duration_s": 2.3019999999999925
+  },
+  {
+    "org_text": "PLANT l",
+    "clean_text": "spring",
+    "start_time": 387.287,
+    "end_time": 391.124,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 23,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ZpF9lj35sPc",
+    "box": [
+      0.022556781768798002,
+      0.38953530788421603,
+      1.0,
+      0.9212293028831481
+    ],
+    "duration_s": 3.837000000000046
+  },
+  {
+    "org_text": "LOSE / LOST",
+    "clean_text": "lost",
+    "start_time": 49.216,
+    "end_time": 51.618,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 43,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=1v-MqrbC5Js",
+    "box": [
+      0.101476460695266,
+      0.128850132226943,
+      1.0,
+      0.763513624668121
+    ],
+    "duration_s": 2.402000000000001
+  },
+  {
+    "org_text": "FINISH",
+    "clean_text": "finish",
+    "start_time": 72.739,
+    "end_time": 74.541,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 12,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=1v-MqrbC5Js",
+    "box": [
+      0.099370419979095,
+      0.148325592279434,
+      1.0,
+      0.7577464580535881
+    ],
+    "duration_s": 1.8019999999999925
+  },
+  {
+    "org_text": "SHOULD",
+    "clean_text": "should",
+    "start_time": 75.342,
+    "end_time": 77.377,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=1v-MqrbC5Js",
+    "box": [
+      0.122835934162139,
+      0.15011703968048,
+      1.0,
+      0.752946019172668
+    ],
+    "duration_s": 2.0349999999999966
+  },
+  {
+    "org_text": "DOCTOR",
+    "clean_text": "doctor",
+    "start_time": 44.23,
+    "end_time": 45.669,
+    "fps": 29.889,
+    "width": 1280,
+    "height": 720,
+    "label": 51,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=7klDf0ZSN_M",
+    "box": [
+      0.048805743455886,
+      0.06708225607872001,
+      0.9982935190200801,
+      0.775473594665527
+    ],
+    "duration_s": 1.439
+  },
+  {
+    "org_text": "TEACHER",
+    "clean_text": "teacher",
+    "start_time": 99.535,
+    "end_time": 100.94,
+    "fps": 29.889,
+    "width": 1280,
+    "height": 720,
+    "label": 2,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=7klDf0ZSN_M",
+    "box": [
+      0.037733495235443004,
+      0.0,
+      0.9978172779083251,
+      0.831766724586486
+    ],
+    "duration_s": 1.4050000000000011
+  },
+  {
+    "org_text": "MILK",
+    "clean_text": "milk",
+    "start_time": 29.07,
+    "end_time": 30.709,
+    "fps": 29.893,
+    "width": 1280,
+    "height": 720,
+    "label": 32,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=6Mmgrtw_Zro",
+    "box": [
+      0.004482388496398,
+      0.09858056902885401,
+      0.9964708089828491,
+      0.9923067092895501
+    ],
+    "duration_s": 1.6389999999999993
+  },
+  {
+    "org_text": "ORANGE",
+    "clean_text": "orange",
+    "start_time": 36.731,
+    "end_time": 38.303,
+    "fps": 29.893,
+    "width": 1280,
+    "height": 720,
+    "label": 7,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=6Mmgrtw_Zro",
+    "box": [
+      0.005896747112274001,
+      0.12295222282409601,
+      0.9946187138557431,
+      0.9434767365455621
+    ],
+    "duration_s": 1.5719999999999956
+  },
+  {
+    "org_text": "ENGLAND",
+    "clean_text": "english",
+    "start_time": 172.305,
+    "end_time": 174.674,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 66,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=CaPskXAkgJo",
+    "box": [
+      0.10885077714920001,
+      0.197987496852874,
+      1.0,
+      0.77683287858963
+    ],
+    "duration_s": 2.3689999999999998
+  },
+  {
+    "org_text": "spring",
+    "clean_text": "spring",
+    "start_time": 42.91,
+    "end_time": 44.878,
+    "fps": 29.97,
+    "width": 640,
+    "height": 360,
+    "label": 23,
+    "signer_id": 90,
+    "url": "https://www.youtube.com/watch?v=R-2MXm-JM0Q",
+    "box": [
+      0.053793430328369,
+      0.372297435998916,
+      1.0,
+      0.8677904009819031
+    ],
+    "duration_s": 1.9680000000000035
+  },
+  {
+    "org_text": "NO",
+    "clean_text": "no",
+    "start_time": 61.795,
+    "end_time": 63.263,
+    "fps": 29.97,
+    "width": 360,
+    "height": 360,
+    "label": 4,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=FBimL8-ND3E",
+    "box": [
+      0.30015218257903997,
+      0.282632321119308,
+      1.0,
+      0.883554697036743
+    ],
+    "duration_s": 1.4679999999999964
+  },
+  {
+    "org_text": "NO",
+    "clean_text": "no",
+    "start_time": 64.932,
+    "end_time": 67.701,
+    "fps": 29.97,
+    "width": 360,
+    "height": 360,
+    "label": 4,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=FBimL8-ND3E",
+    "box": [
+      0.30015218257903997,
+      0.282632321119308,
+      1.0,
+      0.883554697036743
+    ],
+    "duration_s": 2.7689999999999912
+  },
+  {
+    "org_text": "AGAIN",
+    "clean_text": "again",
+    "start_time": 101.902,
+    "end_time": 104.237,
+    "fps": 29.97,
+    "width": 360,
+    "height": 360,
+    "label": 26,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=FBimL8-ND3E",
+    "box": [
+      0.330552071332931,
+      0.253088772296905,
+      1.0,
+      0.9419392943382261
+    ],
+    "duration_s": 2.3349999999999937
+  },
+  {
+    "org_text": "AGAIN",
+    "clean_text": "again",
+    "start_time": 105.572,
+    "end_time": 107.841,
+    "fps": 29.97,
+    "width": 360,
+    "height": 360,
+    "label": 26,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=FBimL8-ND3E",
+    "box": [
+      0.330552071332931,
+      0.253088772296905,
+      1.0,
+      0.9419392943382261
+    ],
+    "duration_s": 2.2689999999999912
+  },
+  {
+    "org_text": "WANT",
+    "clean_text": "want",
+    "start_time": 133.333,
+    "end_time": 135.669,
+    "fps": 29.97,
+    "width": 360,
+    "height": 360,
+    "label": 8,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=FBimL8-ND3E",
+    "box": [
+      0.32899597287178,
+      0.274480700492858,
+      1.0,
+      0.9451267719268791
+    ],
+    "duration_s": 2.3360000000000127
+  },
+  {
+    "org_text": "WANT",
+    "clean_text": "want",
+    "start_time": 136.67,
+    "end_time": 139.339,
+    "fps": 29.97,
+    "width": 360,
+    "height": 360,
+    "label": 8,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=FBimL8-ND3E",
+    "box": [
+      0.32899597287178,
+      0.274480700492858,
+      1.0,
+      0.9451267719268791
+    ],
+    "duration_s": 2.669000000000011
+  },
+  {
+    "org_text": "FOOD",
+    "clean_text": "eat",
+    "start_time": 209.409,
+    "end_time": 211.411,
+    "fps": 29.97,
+    "width": 360,
+    "height": 360,
+    "label": 3,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=FBimL8-ND3E",
+    "box": [
+      0.322101444005966,
+      0.231323838233947,
+      1.0,
+      0.9037486910820001
+    ],
+    "duration_s": 2.0020000000000095
+  },
+  {
+    "org_text": "FOOD",
+    "clean_text": "eat",
+    "start_time": 217.084,
+    "end_time": 218.752,
+    "fps": 29.97,
+    "width": 360,
+    "height": 360,
+    "label": 3,
+    "signer_id": 101,
+    "url": "https://www.youtube.com/watch?v=FBimL8-ND3E",
+    "box": [
+      0.322101444005966,
+      0.231323838233947,
+      1.0,
+      0.9037486910820001
+    ],
+    "duration_s": 1.6680000000000064
+  },
+  {
+    "org_text": "ENGLAND",
+    "clean_text": "english",
+    "start_time": 34.133,
+    "end_time": 36.367,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 66,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=2TQMVwOkHWw",
+    "box": [
+      0.0,
+      0.130209505558013,
+      0.9948291182518001,
+      0.972616672515869
+    ],
+    "duration_s": 2.2339999999999947
+  },
+  {
+    "org_text": "EAT, FOOD",
+    "clean_text": "eat",
+    "start_time": 49.64,
+    "end_time": 53.31,
+    "fps": 29.976,
+    "width": 1280,
+    "height": 720,
+    "label": 3,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=SJAhRxI7i9c",
+    "box": [
+      0.08939978480339,
+      0.27514284849166804,
+      1.0,
+      0.647479653358459
+    ],
+    "duration_s": 3.6700000000000017
+  },
+  {
+    "org_text": "NO",
+    "clean_text": "no",
+    "start_time": 107.72,
+    "end_time": 110.156,
+    "fps": 29.976,
+    "width": 1280,
+    "height": 720,
+    "label": 4,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=SJAhRxI7i9c",
+    "box": [
+      0.088738501071929,
+      0.24278910458087902,
+      1.0,
+      0.624053001403808
+    ],
+    "duration_s": 2.436000000000007
+  },
+  {
+    "org_text": "SCHOOL",
+    "clean_text": "school",
+    "start_time": 120.13,
+    "end_time": 123.2,
+    "fps": 29.976,
+    "width": 1280,
+    "height": 720,
+    "label": 10,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=SJAhRxI7i9c",
+    "box": [
+      0.09027215838432301,
+      0.258863627910614,
+      1.0,
+      0.625387251377105
+    ],
+    "duration_s": 3.0700000000000074
+  },
+  {
+    "org_text": "YES",
+    "clean_text": "yes",
+    "start_time": 163.932,
+    "end_time": 167.435,
+    "fps": 29.976,
+    "width": 1280,
+    "height": 720,
+    "label": 20,
+    "signer_id": 10,
+    "url": "https://www.youtube.com/watch?v=SJAhRxI7i9c",
+    "box": [
+      0.08965247869491501,
+      0.23424974083900402,
+      1.0,
+      0.6343202590942381
+    ],
+    "duration_s": 3.5030000000000143
+  },
+  {
+    "org_text": "CLEAN",
+    "clean_text": "nice",
+    "start_time": 47.514,
+    "end_time": 51.451,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 1,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=t3jDMiQI5uQ",
+    "box": [
+      0.17975974082946702,
+      0.18257164955139102,
+      1.0,
+      0.7747007608413691
+    ],
+    "duration_s": 3.9369999999999976
+  },
+  {
+    "org_text": "FOOD / EAT",
+    "clean_text": "eat",
+    "start_time": 45.946,
+    "end_time": 47.381,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 3,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=eBkzZg-9hd4",
+    "box": [
+      0.105489194393157,
+      0.177954643964767,
+      1.0,
+      0.7722731828689571
+    ],
+    "duration_s": 1.4350000000000023
+  },
+  {
+    "org_text": "HUNGRY",
+    "clean_text": "hungry",
+    "start_time": 48.515,
+    "end_time": 50.25,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 54,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=eBkzZg-9hd4",
+    "box": [
+      0.082528501749038,
+      0.142191797494888,
+      1.0,
+      0.787350416183471
+    ],
+    "duration_s": 1.7349999999999994
+  },
+  {
+    "org_text": "WHAT?",
+    "clean_text": "what",
+    "start_time": 97.564,
+    "end_time": 99.299,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 15,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=eBkzZg-9hd4",
+    "box": [
+      0.10428035259246801,
+      0.140624910593032,
+      1.0,
+      0.7699363231658931
+    ],
+    "duration_s": 1.7350000000000136
+  },
+  {
+    "org_text": "WHERE?",
+    "clean_text": "where",
+    "start_time": 103.971,
+    "end_time": 105.706,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 30,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=eBkzZg-9hd4",
+    "box": [
+      0.07997280359268101,
+      0.177848130464553,
+      1.0,
+      0.760658264160156
+    ],
+    "duration_s": 1.7349999999999994
+  },
+  {
+    "org_text": "MUST",
+    "clean_text": "must",
+    "start_time": 35.202,
+    "end_time": 36.77,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=5LuS-TTg7rA",
+    "box": [
+      0.18196892738342202,
+      0.206954091787338,
+      1.0,
+      0.778017520904541
+    ],
+    "duration_s": 1.568000000000005
+  },
+  {
+    "org_text": "SHOULD",
+    "clean_text": "should",
+    "start_time": 37.538,
+    "end_time": 39.339,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 29,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=5LuS-TTg7rA",
+    "box": [
+      0.180145680904388,
+      0.206199467182159,
+      1.0,
+      0.7878064513206481
+    ],
+    "duration_s": 1.801000000000002
+  },
+  {
+    "org_text": "DEAF",
+    "clean_text": "deaf",
+    "start_time": 6.896,
+    "end_time": 7.632,
+    "fps": 29.873,
+    "width": 1280,
+    "height": 720,
+    "label": 9,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=-msMbTjOPyk",
+    "box": [
+      0.0,
+      0.07539203763008101,
+      1.0,
+      0.9357270598411561
+    ],
+    "duration_s": 0.7359999999999998
+  },
+  {
+    "org_text": "FAMILY",
+    "clean_text": "family",
+    "start_time": 29.63,
+    "end_time": 31.598,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 44,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=s2xJgfOn6FA",
+    "box": [
+      0.087378412485122,
+      0.19345244765281602,
+      1.0,
+      0.7570033073425291
+    ],
+    "duration_s": 1.968
+  },
+  {
+    "org_text": "FATHER",
+    "clean_text": "father",
+    "start_time": 23.457,
+    "end_time": 24.992,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 31,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ktkz1BUzs48",
+    "box": [
+      0.14285385608673,
+      0.21680250763893102,
+      1.0,
+      0.805483043193817
+    ],
+    "duration_s": 1.5350000000000001
+  },
+  {
+    "org_text": "MOTHER",
+    "clean_text": "mother",
+    "start_time": 26.46,
+    "end_time": 28.028,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 19,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ktkz1BUzs48",
+    "box": [
+      0.165873140096664,
+      0.23917821049690202,
+      1.0,
+      0.8089639544487001
+    ],
+    "duration_s": 1.5679999999999978
+  },
+  {
+    "org_text": "GRANDFATHER",
+    "clean_text": "grandfather",
+    "start_time": 29.73,
+    "end_time": 31.798000000000002,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 92,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ktkz1BUzs48",
+    "box": [
+      0.102243214845657,
+      0.21138629317283603,
+      1.0,
+      0.8095345497131341
+    ],
+    "duration_s": 2.0680000000000014
+  },
+  {
+    "org_text": "GRANDMOTHER",
+    "clean_text": "grandmother",
+    "start_time": 33.734,
+    "end_time": 35.869,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 78,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ktkz1BUzs48",
+    "box": [
+      0.168193221092224,
+      0.240477591753005,
+      1.0,
+      0.8072634339332581
+    ],
+    "duration_s": 2.134999999999998
+  },
+  {
+    "org_text": "BROTHER",
+    "clean_text": "brother",
+    "start_time": 37.905,
+    "end_time": 41.241,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 34,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ktkz1BUzs48",
+    "box": [
+      0.141521126031875,
+      0.22184026241302401,
+      1.0,
+      0.8119103908538811
+    ],
+    "duration_s": 3.3359999999999985
+  },
+  {
+    "org_text": "SISTER",
+    "clean_text": "sister",
+    "start_time": 47.714,
+    "end_time": 50.384,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 11,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ktkz1BUzs48",
+    "box": [
+      0.14644500613212502,
+      0.233026415109634,
+      1.0,
+      0.773802757263183
+    ],
+    "duration_s": 2.6700000000000017
+  },
+  {
+    "org_text": "COUSIN",
+    "clean_text": "cousin",
+    "start_time": 61.094,
+    "end_time": 63.196,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 33,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ktkz1BUzs48",
+    "box": [
+      0.151404678821563,
+      0.24109798669815002,
+      1.0,
+      0.790670990943908
+    ],
+    "duration_s": 2.1019999999999968
+  },
+  {
+    "org_text": "MOTHER",
+    "clean_text": "mother",
+    "start_time": 4.967,
+    "end_time": 5.967,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 19,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=uE3IDWh0xnA",
+    "box": [
+      0.258340418338775,
+      0.005991637706756,
+      0.9855325222015381,
+      0.9922109842300411
+    ],
+    "duration_s": 1.0
+  },
+  {
+    "org_text": "FATHER",
+    "clean_text": "father",
+    "start_time": 7.133,
+    "end_time": 8.567,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 31,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=uE3IDWh0xnA",
+    "box": [
+      0.15793827176094002,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "duration_s": 1.4340000000000002
+  },
+  {
+    "org_text": "BROTHER",
+    "clean_text": "brother",
+    "start_time": 15.433,
+    "end_time": 18.133,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 34,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=uE3IDWh0xnA",
+    "box": [
+      0.24191454052925102,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "duration_s": 2.6999999999999993
+  },
+  {
+    "org_text": "SISTER",
+    "clean_text": "sister",
+    "start_time": 19.4,
+    "end_time": 21.633,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 11,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=uE3IDWh0xnA",
+    "box": [
+      0.256612092256546,
+      0.007061123847961001,
+      0.988311052322387,
+      0.9937471151351921
+    ],
+    "duration_s": 2.2330000000000005
+  },
+  {
+    "org_text": "MAN",
+    "clean_text": "man",
+    "start_time": 27.3,
+    "end_time": 29.067,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 58,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=uE3IDWh0xnA",
+    "box": [
+      0.180243492126464,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "duration_s": 1.7669999999999995
+  },
+  {
+    "org_text": "GRANDMA",
+    "clean_text": "grandmother",
+    "start_time": 32.667,
+    "end_time": 34.433,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 78,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=uE3IDWh0xnA",
+    "box": [
+      0.254563391208648,
+      0.0021067857742300003,
+      0.9955531358718871,
+      0.996350765228271
+    ],
+    "duration_s": 1.7659999999999982
+  },
+  {
+    "org_text": "GRANDPA",
+    "clean_text": "grandfather",
+    "start_time": 35.233,
+    "end_time": 37.533,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 92,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=uE3IDWh0xnA",
+    "box": [
+      0.15789037942886303,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "duration_s": 2.3000000000000043
+  },
+  {
+    "org_text": "COUSIN (MALE AND/OR MORE THAN ONE)",
+    "clean_text": "cousin",
+    "start_time": 42.6,
+    "end_time": 44.8,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 33,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=uE3IDWh0xnA",
+    "box": [
+      0.186123043298721,
+      0.0,
+      0.9953451156616211,
+      1.0
+    ],
+    "duration_s": 2.1999999999999957
+  },
+  {
+    "org_text": "COUSIN (FEMALE)",
+    "clean_text": "cousin",
+    "start_time": 45.167,
+    "end_time": 47.433,
+    "fps": 30.0,
+    "width": 406,
+    "height": 720,
+    "label": 33,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=uE3IDWh0xnA",
+    "box": [
+      0.24397015571594202,
+      0.009662479162216001,
+      0.9852942228317261,
+      0.9973876476287841
+    ],
+    "duration_s": 2.2659999999999982
+  },
+  {
+    "org_text": "TEACHER",
+    "clean_text": "teacher",
+    "start_time": 66.367,
+    "end_time": 67.533,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720,
+    "label": 2,
+    "signer_id": 34,
+    "url": "https://www.youtube.com/watch?v=oXzTnqvjnN8",
+    "box": [
+      0.021093428134918,
+      0.0,
+      1.0,
+      0.9887341856956481
+    ],
+    "duration_s": 1.1659999999999968
+  },
+  {
+    "org_text": "WATER",
+    "clean_text": "water",
+    "start_time": 99.733,
+    "end_time": 101.301,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 48,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=M_dyoVFFzuU",
+    "box": [
+      0.209557652473449,
+      0.22455453872680603,
+      1.0,
+      0.744592428207397
+    ],
+    "duration_s": 1.5679999999999978
+  },
+  {
+    "org_text": "LOST",
+    "clean_text": "lost",
+    "start_time": 133.734,
+    "end_time": 135.636,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 43,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=CgBSzRIXvE8",
+    "box": [
+      0.032992273569107,
+      0.14382591843605,
+      1.0,
+      0.843593657016754
+    ],
+    "duration_s": 1.9019999999999868
+  },
+  {
+    "org_text": "LIKE",
+    "clean_text": "like",
+    "start_time": 167.701,
+    "end_time": 172.339,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 6,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ZgUBU0NNEDU",
+    "box": [
+      0.04456603527069,
+      0.15232238173484802,
+      1.0,
+      0.7760205864906311
+    ],
+    "duration_s": 4.638000000000005
+  },
+  {
+    "org_text": "TIRED",
+    "clean_text": "tired",
+    "start_time": 275.942,
+    "end_time": 278.945,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 16,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ZgUBU0NNEDU",
+    "box": [
+      0.056603401899337005,
+      0.18683004379272403,
+      1.0,
+      0.790790200233459
+    ],
+    "duration_s": 3.002999999999986
+  },
+  {
+    "org_text": "TIRED",
+    "clean_text": "tired",
+    "start_time": 278.945,
+    "end_time": 282.282,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 16,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ZgUBU0NNEDU",
+    "box": [
+      0.056603401899337005,
+      0.18683004379272403,
+      1.0,
+      0.790790200233459
+    ],
+    "duration_s": 3.336999999999989
+  },
+  {
+    "org_text": "TIRED",
+    "clean_text": "tired",
+    "start_time": 283.283,
+    "end_time": 285.285,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 16,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=ZgUBU0NNEDU",
+    "box": [
+      0.056603401899337005,
+      0.18683004379272403,
+      1.0,
+      0.790790200233459
+    ],
+    "duration_s": 2.0020000000000095
+  },
+  {
+    "org_text": "ENGLISH",
+    "clean_text": "english",
+    "start_time": 54.154,
+    "end_time": 56.323,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 66,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=3TU7xovzhMo",
+    "box": [
+      0.13004523515701202,
+      0.19497692584991402,
+      1.0,
+      0.7569340467453001
+    ],
+    "duration_s": 2.168999999999997
+  },
+  {
+    "org_text": "YES",
+    "clean_text": "yes",
+    "start_time": 18.952,
+    "end_time": 21.221,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 20,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=RMUydgQr9TE",
+    "box": [
+      0.16768932342529203,
+      0.15821099281311002,
+      1.0,
+      0.7386456727981561
+    ],
+    "duration_s": 2.2689999999999984
+  },
+  {
+    "org_text": "NO",
+    "clean_text": "no",
+    "start_time": 22.489,
+    "end_time": 24.758,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 4,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=RMUydgQr9TE",
+    "box": [
+      0.170550853013992,
+      0.13081607222557,
+      0.9984105825424191,
+      0.738980054855346
+    ],
+    "duration_s": 2.2689999999999984
+  },
+  {
+    "org_text": "NO",
+    "clean_text": "no",
+    "start_time": 26.66,
+    "end_time": 28.128,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 4,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=RMUydgQr9TE",
+    "box": [
+      0.177660673856735,
+      0.12013760209083502,
+      1.0,
+      0.7443804740905761
+    ],
+    "duration_s": 1.468
+  },
+  {
+    "org_text": "NO",
+    "clean_text": "no",
+    "start_time": 29.162,
+    "end_time": 30.631,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 4,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=RMUydgQr9TE",
+    "box": [
+      0.16504955291748002,
+      0.149659425020217,
+      1.0,
+      0.7374163269996641
+    ],
+    "duration_s": 1.4690000000000012
+  },
+  {
+    "org_text": "WHAT?",
+    "clean_text": "what",
+    "start_time": 115.015,
+    "end_time": 116.583,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 15,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=RMUydgQr9TE",
+    "box": [
+      0.17063090205192502,
+      0.102077066898345,
+      0.9993865489959711,
+      0.7377296686172481
+    ],
+    "duration_s": 1.5679999999999978
+  },
+  {
+    "org_text": "WHERE?",
+    "clean_text": "where",
+    "start_time": 120.954,
+    "end_time": 122.99,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 30,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=RMUydgQr9TE",
+    "box": [
+      0.170133411884307,
+      0.12081947922706601,
+      1.0,
+      0.733785986900329
+    ],
+    "duration_s": 2.0360000000000014
+  },
+  {
+    "org_text": "to LIKE",
+    "clean_text": "like",
+    "start_time": 145.479,
+    "end_time": 147.547,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 6,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=RMUydgQr9TE",
+    "box": [
+      0.170399665832519,
+      0.12943699955940202,
+      0.9975416660308831,
+      0.737237334251403
+    ],
+    "duration_s": 2.0679999999999836
+  },
+  {
+    "org_text": "Learn",
+    "clean_text": "learn",
+    "start_time": 239.439,
+    "end_time": 242.142,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 22,
+    "signer_id": 430,
+    "url": "https://www.youtube.com/watch?v=J6H-B-rbdg8",
+    "box": [
+      0.069542855024337,
+      0.22482648491859403,
+      1.0,
+      0.761626124382019
+    ],
+    "duration_s": 2.703000000000003
+  },
+  {
+    "org_text": "WRITE",
+    "clean_text": "write",
+    "start_time": 95.228,
+    "end_time": 97.664,
+    "fps": 29.97,
+    "width": 1280,
+    "height": 720,
+    "label": 53,
+    "signer_id": 26,
+    "url": "https://www.youtube.com/watch?v=uKVcATFm9Sg",
+    "box": [
+      0.057860225439071,
+      0.218993991613388,
+      1.0,
+      0.761657297611236
+    ],
+    "duration_s": 2.436000000000007
+  }
+]
